@@ -1,0 +1,402 @@
+[
+  {
+    "waktu": "2025-07-08T13:37:11.354930",
+    "modal_awal": 14019483,
+    "total_pemasukan": 77616198,
+    "total_pengeluaran": 64363625,
+    "rugi": 0,
+    "profit": 13252573
+  },
+  {
+    "waktu": "2025-07-08T13:38:11.354930",
+    "modal_awal": 47964760,
+    "total_pemasukan": 50125568,
+    "total_pengeluaran": 16527193,
+    "rugi": 0,
+    "profit": 33598375
+  },
+  {
+    "waktu": "2025-07-08T13:39:11.354930",
+    "modal_awal": 18946528,
+    "total_pemasukan": 77382806,
+    "total_pengeluaran": 7082622,
+    "rugi": 0,
+    "profit": 70300184
+  },
+  {
+    "waktu": "2025-07-08T13:40:11.354930",
+    "modal_awal": 45171770,
+    "total_pemasukan": 54755262,
+    "total_pengeluaran": 33677289,
+    "rugi": 0,
+    "profit": 21077973
+  },
+  {
+    "waktu": "2025-07-08T13:41:11.354930",
+    "modal_awal": 18694272,
+    "total_pemasukan": 62780661,
+    "total_pengeluaran": 53628141,
+    "rugi": 0,
+    "profit": 9152520
+  },
+  {
+    "waktu": "2025-07-08T13:42:11.354930",
+    "modal_awal": 12454853,
+    "total_pemasukan": 49184182,
+    "total_pengeluaran": 56528117,
+    "rugi": 7343935,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:43:11.354930",
+    "modal_awal": 29355591,
+    "total_pemasukan": 44214110,
+    "total_pengeluaran": 18360676,
+    "rugi": 0,
+    "profit": 25853434
+  },
+  {
+    "waktu": "2025-07-08T13:44:11.354930",
+    "modal_awal": 16683817,
+    "total_pemasukan": 72084320,
+    "total_pengeluaran": 79461343,
+    "rugi": 7377023,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:45:11.354930",
+    "modal_awal": 34126629,
+    "total_pemasukan": 85773605,
+    "total_pengeluaran": 86298313,
+    "rugi": 524708,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:46:11.354930",
+    "modal_awal": 42481063,
+    "total_pemasukan": 99390746,
+    "total_pengeluaran": 68528696,
+    "rugi": 0,
+    "profit": 30862050
+  },
+  {
+    "waktu": "2025-07-08T13:47:11.354930",
+    "modal_awal": 36660540,
+    "total_pemasukan": 68352703,
+    "total_pengeluaran": 9813030,
+    "rugi": 0,
+    "profit": 58539673
+  },
+  {
+    "waktu": "2025-07-08T13:48:11.354930",
+    "modal_awal": 12344055,
+    "total_pemasukan": 50009910,
+    "total_pengeluaran": 95633221,
+    "rugi": 45623311,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:49:11.354930",
+    "modal_awal": 34701332,
+    "total_pemasukan": 82110172,
+    "total_pengeluaran": 6319958,
+    "rugi": 0,
+    "profit": 75790214
+  },
+  {
+    "waktu": "2025-07-08T13:50:11.354930",
+    "modal_awal": 16619455,
+    "total_pemasukan": 63254785,
+    "total_pengeluaran": 49739933,
+    "rugi": 0,
+    "profit": 13514852
+  },
+  {
+    "waktu": "2025-07-08T13:51:11.354930",
+    "modal_awal": 42831065,
+    "total_pemasukan": 31458182,
+    "total_pengeluaran": 53531415,
+    "rugi": 22073233,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:52:11.354930",
+    "modal_awal": 31725493,
+    "total_pemasukan": 28785173,
+    "total_pengeluaran": 83304683,
+    "rugi": 54519510,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:53:11.354930",
+    "modal_awal": 16276785,
+    "total_pemasukan": 53458791,
+    "total_pengeluaran": 30721807,
+    "rugi": 0,
+    "profit": 22736984
+  },
+  {
+    "waktu": "2025-07-08T13:54:11.354930",
+    "modal_awal": 11149537,
+    "total_pemasukan": 81837212,
+    "total_pengeluaran": 76554765,
+    "rugi": 0,
+    "profit": 5282447
+  },
+  {
+    "waktu": "2025-07-08T13:55:11.354930",
+    "modal_awal": 13165524,
+    "total_pemasukan": 67924554,
+    "total_pengeluaran": 52732282,
+    "rugi": 0,
+    "profit": 15192272
+  },
+  {
+    "waktu": "2025-07-08T13:56:11.354930",
+    "modal_awal": 33275805,
+    "total_pemasukan": 94169421,
+    "total_pengeluaran": 55216275,
+    "rugi": 0,
+    "profit": 38953146
+  },
+  {
+    "waktu": "2025-07-08T13:57:11.354930",
+    "modal_awal": 46042066,
+    "total_pemasukan": 42006696,
+    "total_pengeluaran": 60396825,
+    "rugi": 18390129,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:58:11.354930",
+    "modal_awal": 13416443,
+    "total_pemasukan": 12393878,
+    "total_pengeluaran": 66610321,
+    "rugi": 54216443,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T13:59:11.354930",
+    "modal_awal": 40560681,
+    "total_pemasukan": 67301103,
+    "total_pengeluaran": 5441991,
+    "rugi": 0,
+    "profit": 61859112
+  },
+  {
+    "waktu": "2025-07-08T14:00:11.354930",
+    "modal_awal": 26369697,
+    "total_pemasukan": 84830603,
+    "total_pengeluaran": 70595512,
+    "rugi": 0,
+    "profit": 14235091
+  },
+  {
+    "waktu": "2025-07-08T14:01:11.354930",
+    "modal_awal": 34947134,
+    "total_pemasukan": 57764715,
+    "total_pengeluaran": 14726254,
+    "rugi": 0,
+    "profit": 43038461
+  },
+  {
+    "waktu": "2025-07-08T14:02:11.354930",
+    "modal_awal": 49653321,
+    "total_pemasukan": 59229209,
+    "total_pengeluaran": 20153125,
+    "rugi": 0,
+    "profit": 39076084
+  },
+  {
+    "waktu": "2025-07-08T14:03:11.354930",
+    "modal_awal": 37221984,
+    "total_pemasukan": 84943307,
+    "total_pengeluaran": 14416997,
+    "rugi": 0,
+    "profit": 70526310
+  },
+  {
+    "waktu": "2025-07-08T14:04:11.354930",
+    "modal_awal": 43410164,
+    "total_pemasukan": 23461489,
+    "total_pengeluaran": 68802833,
+    "rugi": 45341344,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:05:11.354930",
+    "modal_awal": 43974431,
+    "total_pemasukan": 67933176,
+    "total_pengeluaran": 43130885,
+    "rugi": 0,
+    "profit": 24802291
+  },
+  {
+    "waktu": "2025-07-08T14:06:11.354930",
+    "modal_awal": 21632990,
+    "total_pemasukan": 8538576,
+    "total_pengeluaran": 18236858,
+    "rugi": 9698282,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:07:11.354930",
+    "modal_awal": 26628831,
+    "total_pemasukan": 39951471,
+    "total_pengeluaran": 26044009,
+    "rugi": 0,
+    "profit": 13907462
+  },
+  {
+    "waktu": "2025-07-08T14:08:11.354930",
+    "modal_awal": 19285700,
+    "total_pemasukan": 82670654,
+    "total_pengeluaran": 37058702,
+    "rugi": 0,
+    "profit": 45611952
+  },
+  {
+    "waktu": "2025-07-08T14:09:11.354930",
+    "modal_awal": 10067509,
+    "total_pemasukan": 15251765,
+    "total_pengeluaran": 80805860,
+    "rugi": 65554095,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:10:11.354930",
+    "modal_awal": 18374418,
+    "total_pemasukan": 46884192,
+    "total_pengeluaran": 97139297,
+    "rugi": 50255105,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:11:11.354930",
+    "modal_awal": 31884146,
+    "total_pemasukan": 63447968,
+    "total_pengeluaran": 54764314,
+    "rugi": 0,
+    "profit": 8683654
+  },
+  {
+    "waktu": "2025-07-08T14:12:11.354930",
+    "modal_awal": 48149492,
+    "total_pemasukan": 56038213,
+    "total_pengeluaran": 30626594,
+    "rugi": 0,
+    "profit": 25411619
+  },
+  {
+    "waktu": "2025-07-08T14:13:11.354930",
+    "modal_awal": 10572952,
+    "total_pemasukan": 16670113,
+    "total_pengeluaran": 52233983,
+    "rugi": 35563870,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:14:11.354930",
+    "modal_awal": 24300378,
+    "total_pemasukan": 62125457,
+    "total_pengeluaran": 96149360,
+    "rugi": 34023903,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:15:11.354930",
+    "modal_awal": 35510992,
+    "total_pemasukan": 10557234,
+    "total_pengeluaran": 21087938,
+    "rugi": 10530704,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:16:11.354930",
+    "modal_awal": 36061005,
+    "total_pemasukan": 21278039,
+    "total_pengeluaran": 23088251,
+    "rugi": 1810212,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:17:11.354930",
+    "modal_awal": 44751170,
+    "total_pemasukan": 45811030,
+    "total_pengeluaran": 91045503,
+    "rugi": 45234473,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:18:11.354930",
+    "modal_awal": 30708771,
+    "total_pemasukan": 92406766,
+    "total_pengeluaran": 59617794,
+    "rugi": 0,
+    "profit": 32788972
+  },
+  {
+    "waktu": "2025-07-08T14:19:11.354930",
+    "modal_awal": 49051998,
+    "total_pemasukan": 37804924,
+    "total_pengeluaran": 31151838,
+    "rugi": 0,
+    "profit": 6653086
+  },
+  {
+    "waktu": "2025-07-08T14:20:11.354930",
+    "modal_awal": 18477141,
+    "total_pemasukan": 52054587,
+    "total_pengeluaran": 25179935,
+    "rugi": 0,
+    "profit": 26874652
+  },
+  {
+    "waktu": "2025-07-08T14:21:11.354930",
+    "modal_awal": 35520767,
+    "total_pemasukan": 14911177,
+    "total_pengeluaran": 90595887,
+    "rugi": 75684710,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:22:11.354930",
+    "modal_awal": 45197369,
+    "total_pemasukan": 79529931,
+    "total_pengeluaran": 59936332,
+    "rugi": 0,
+    "profit": 19593599
+  },
+  {
+    "waktu": "2025-07-08T14:23:11.354930",
+    "modal_awal": 14986584,
+    "total_pemasukan": 75164676,
+    "total_pengeluaran": 83440054,
+    "rugi": 8275378,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:24:11.354930",
+    "modal_awal": 10373534,
+    "total_pemasukan": 32410354,
+    "total_pengeluaran": 10046647,
+    "rugi": 0,
+    "profit": 22363707
+  },
+  {
+    "waktu": "2025-07-08T14:25:11.354930",
+    "modal_awal": 40414565,
+    "total_pemasukan": 46860026,
+    "total_pengeluaran": 62179562,
+    "rugi": 15319536,
+    "profit": 0
+  },
+  {
+    "waktu": "2025-07-08T14:26:11.354930",
+    "modal_awal": 29090258,
+    "total_pemasukan": 47184488,
+    "total_pengeluaran": 53133611,
+    "rugi": 5949123,
+    "profit": 0
+  }
+]

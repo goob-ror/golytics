@@ -1,0 +1,27 @@
+artifact_path: /mnt/lubuntu-storage/program/python/datathon/learn/sampleText/newModel/golytics/mlruns/1/models/m-10fae0e5e3054efbafd3473ff5bd39b3/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.1+cu126
+mlflow_version: 3.1.1
+model_id: m-10fae0e5e3054efbafd3473ff5bd39b3
+model_size_bytes: 4693
+model_uuid: m-10fae0e5e3054efbafd3473ff5bd39b3
+prompts: null
+run_id: 9fcf0544078e456595119496a7fe7c39
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2025-07-08 06:39:36.472409'
