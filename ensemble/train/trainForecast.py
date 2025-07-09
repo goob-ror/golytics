@@ -3,7 +3,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 import joblib
 import os
 
-df = pd.read_csv("../../dataset/csv/train.csv")
+df = pd.read_csv("dataset/csv/train.csv")
 df["Date"] = pd.to_datetime(df["Date"])
 
 # Sort & filter
@@ -17,5 +17,5 @@ endog = df["Sales"]
 model = SARIMAX(endog, exog=exog, order=(1, 1, 1))
 fit = model.fit(disp=False)
 
-os.makedirs("../models", exist_ok=True)
-joblib.dump(fit, "../models/arimax_model.pkl")
+os.makedirs("ensemble/models", exist_ok=True)
+joblib.dump(fit, "ensemble/models/arimax_model.pkl")

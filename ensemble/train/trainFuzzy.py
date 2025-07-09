@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import os
 
-df = pd.read_csv("../../dataset/csv/processed_model_data.csv")
+df = pd.read_csv("dataset/csv/processed_model_data.csv")
 
 def fuzzy_rule(row):
     pemasukan = row["Monthly Revenue_>30 Juta"]
@@ -23,6 +23,6 @@ for _, row in df.iterrows():
         "kategori": label
     })
 
-os.makedirs("../models", exist_ok=True)
-with open("../models/fuzzy_rules_output.json", "w") as f:
+os.makedirs("ensemble/models", exist_ok=True)
+with open("ensemble/models/fuzzy_rules_output.json", "w") as f:
     json.dump(results, f, indent=2)

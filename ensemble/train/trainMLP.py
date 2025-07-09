@@ -14,8 +14,8 @@ class BisnisAssistantModel(torch.nn.Module):
     def forward(self, x):
         return self.model(x)
 
-X = pd.read_csv("../data/X_scaled.csv").values
-y = pd.read_csv("../data/y_scaled.csv").values
+X = pd.read_csv("ensemble/data/X_scaled.csv").values
+y = pd.read_csv("ensemble/data/y_scaled.csv").values
 
 X_tensor = torch.tensor(X, dtype=torch.float32)
 y_tensor = torch.tensor(y, dtype=torch.float32)
@@ -33,5 +33,5 @@ for epoch in range(100):
         loss.backward()
         opt.step()
 
-os.makedirs("../models", exist_ok=True)
-torch.save(model.state_dict(), "../models/mlp_model.pth")
+os.makedirs("ensemble/models", exist_ok=True)
+torch.save(model.state_dict(), "ensemble/models/mlp_model.pth")

@@ -3,7 +3,7 @@ from sklearn.preprocessing import MinMaxScaler
 import joblib
 import os
 
-DATA_PATH = "../../dataset/csv/processed_model_data.csv"
+DATA_PATH = "dataset/csv/processed_model_data.csv"
 SAVE_PATH = "../data"
 
 def preprocess_and_save():
